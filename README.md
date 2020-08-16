@@ -1,0 +1,1 @@
+Scraping and extracting products details from "Amazon.com" search results pages and returning it in JSON format
